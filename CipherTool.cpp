@@ -194,7 +194,7 @@ void CipherTool::Export(){
 int CipherTool::Menu(){
     int option; // The option from 1-8 that the user chooses
 
-    // The main menu of UMBC Cipher
+    // The main menu of Cipher
     // The user can choose to participate or exit
     cout << "What would you like to do?" << endl;
     cout << "1. Display All Ciphers" << endl;

@@ -7,8 +7,6 @@
 ** This program is the proj.cpp file of the Cipher project.
 ** This file creates a CipherTool object, which allows you to 
 ** perform various encryption techniques.
-** This is the implementation of Cipher Encryption
-** You must load in a valid .txt file in order for the project to work
 **
 **
 ***********************************************/
